@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "vector": "cpp",
+        "array": "cpp",
+        "string_view": "cpp",
+        "initializer_list": "cpp",
+        "utility": "cpp",
+        "chrono": "cpp"
+    },
+    "code-runner.executorMap": {
+        // cd "c:\Codefiled\CODE_C\" && g++ hello.cpp -o hello && "c:\Codefiled\CODE_C\"hello
+       "cpp": "cd $dir && g++ $fileName -o $fileNameWithoutExt && $fileNameWithoutExt"
+    }, // 设置code runner的命令行
+}
